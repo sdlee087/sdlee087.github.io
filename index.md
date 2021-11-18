@@ -1,5 +1,5 @@
 ### About
-I am Ph.D. candidate in computational statistics of Prof. Won, Joong-ho, Seoul National University. 
+I am Ph.D. candidate in computational statistics of [Prof. Won, Joong-ho](https://won-j.github.io/), Seoul National University. 
 
 You can contact me through clan1212 AT snu.ac.kr
 
