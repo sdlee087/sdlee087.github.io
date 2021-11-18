@@ -1,37 +1,23 @@
-## Welcome to GitHub Pages
+### About
+I am Ph.D. candidate in computational statistics of Prof. Won, Joong-ho, Seoul National University. 
 
-You can use the [editor on GitHub](https://github.com/sdlee087/sdlee087.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+You can contact me through clan1212 AT snu.ac.kr
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### [Github Page](https://github.com/sdlee087)
 
-### Markdown
+### Education
+- **Seoul National University** *Ph.D. candidate in Statistics (2017 -)*
+- **Seoul National University** *B.S in Statistics and Computational Science (2013 - 2017)*
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Interests
+- High-performance Statistical Computing
+- Optimization Theory
+- Deep (image) generative models
 
-```markdown
-Syntax highlighted code block
+### Preferable programming languages
 
-# Header 1
-## Header 2
-### Header 3
+- R, Julia, Python (PyTorch)
 
-- Bulleted
-- List
+### Publication
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sdlee087/sdlee087.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+- Choi, Youngwon, Sungdong Lee, and Joong-Ho Won. **Learning from Nested Data with Ornstein Auto-Encoders.** *International Conference on Machine Learning.* PMLR, 2021.
