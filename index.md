@@ -20,4 +20,6 @@ You can contact me through clan1212 AT snu.ac.kr
 
 ### Publication
 
-- Choi, Youngwon, Sungdong Lee, and Joong-Ho Won. **Learning from Nested Data with Ornstein Auto-Encoders.** *International Conference on Machine Learning.* PMLR, 2021.
+- Choi, Youngwon, Sungdong Lee, and Joong-Ho Won. **Learning from Nested Data with Ornstein Auto-Encoders.** *International Conference on Machine Learning,* pp. 1943-1952. PMLR, 2021.
+- Lee, Sungdong, Leonard Sunwoo, Youngwon Choi, Jae Hyup Jung, Seung Chai Jung, and Joong-Ho Won. **Impact of Diffusion–Perfusion Mismatch on Predicting Final Infarction Lesion Using Deep Learning.** *IEEE Access, 10* 97879-97887.
+- Lee, Yoonhyung, Sungdong Lee, and Joong-Ho Won. **Statistical inference with implicit SGD: proximal Robbins-Monro vs. Polyak-Ruppert.** *In International Conference on Machine Learning,* pp. 12423-12454. PMLR, 2022.
